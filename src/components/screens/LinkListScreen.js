@@ -4,7 +4,7 @@ import { View } from "react-native";
 import { Button } from "../Button";
 import { Header } from "../Header/Header";
 import { Typography } from "../Typography";
-import { Spacer } from "./Spacer";
+import { Spacer } from "../Spacer";
 
 export const LinkListScreen = () => {
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { View, useWindowDimensions } from 'react-native';
-import { Spacer } from '../screens/Spacer';
+import { Spacer } from '../Spacer';
 import { HeaderTitle } from './HeaderTitle';
 import { HeaderIcon } from './HeaderButton';
 import { HeaderGroup } from './HeaderGroup';
