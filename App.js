@@ -17,4 +17,3 @@ export default function App() {
     </RecoilRoot>
   );
 }
->>>>>>> 16d0024f20a5ba811331466c15d1c93fa2d6912f
