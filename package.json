@@ -9,12 +9,6 @@
     "web": "expo start --web"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "expo": "~48.0.9",
-    "expo-status-bar": "~1.4.4",
-    "react": "18.2.0",
-    "react-native": "0.71.4"
-=======
     "@react-native-async-storage/async-storage": "1.18.1",
     "@react-navigation/native": "6.1.6",
     "@react-navigation/native-stack": "6.9.12",
@@ -26,7 +20,6 @@
     "react-native-screens": "~3.20.0",
     "recoil": "0.7.7",
     "react-native-webview": "11.26.0"
->>>>>>> 16d0024f20a5ba811331466c15d1c93fa2d6912f
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
